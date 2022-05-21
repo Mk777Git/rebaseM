@@ -1,2 +1,3 @@
 Prüfe, ob anderen Commits ausgeführt werden
 wenn es zu einem Merge-Konflikt kommt und man mittels "--abort" abbricht.
+1
